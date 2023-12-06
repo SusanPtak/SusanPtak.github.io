@@ -1,0 +1,501 @@
+reference	locus	technology	sampling	nethn	prAfr	sex	genic	D value	nchrom	S	#bps	indels?	#indels	reason for exclusion	comments			
+Dienard and Kidd 1999	HoxB6	(DGGE) denaturing gradient gel electrophoresis	geography	21	0.19	auto.	yes	-0.30	210	4	977			S < 5				
+"Enard et al. 2002, submitted"	FoxP2	sequencing	geography	19	0.35	auto.	yes	-2.20	40	47	14255							
+Harris and Hey 1999	Pdha1	sequencing	geography	8	0.46	x	yes	0.78	35	25	4193	no	5					
+Harris and Hey 2001	Factor IX	sequencing	geography	10	0.50	x	yes	-1.71	36	6	3700	no	1					
+Kaessman et al.1999	Xq13.3	sequencing	geography	47	0.33	x	no	-1.61	69	33	10176	no						
+"M. Saunders , pers. comm."	G6PD	sequencing	geography	25	0.24	x	yes	-1.43	41	18	5102							
+"M. Saunders , pers. comm."	L1CAM	sequencing	geography	25	0.24	x	yes	-1.95	41	7	3691							
+Makova et al. 2001	"Mc1r, Nncoding"	sequencing	geography	26	0.33	auto.	yes	-1.04	108	76	6598	yes	4					
+Martinez-Arras et al. 2001	psGBA	sequencing	geography	10	0.30	auto.	no	-0.76	100	18	5420	yes	1					
+Mathews et al. 2001	FMR1	sequencing	geography	8	0.25	x	yes	0.28	20	25	30946	no	2					
+"Nachman 2001 and M. Nachman, pers. comm"	Alas	sequencing	geography	25	0.24	x	yes	-1.53	41	7	5125							
+"Nachman 2001 and M. Nachman, pers. Comm"	Msn	sequencing	geography	25	0.24	x	yes	-0.67	41	9	4622							
+Nachman and Crowell 2000	Dmd44	sequencing	geography	25	0.24	x	yes	-0.16	41	19	3000	no						
+Nachman and Crowell 2000	Dmd7	sequencing	geography	25	0.24	x	yes	-1.79	41	9	2389	no						
+Nachman et al. 1988	dmd44	sequencing	geography	8	0.50	x	yes	0.06	10	8	1537	no		redundant and S < 5				
+Nachman et al. 1988	gk	sequencing	geography	8	0.50	x	yes	0.02	10	1	1861	no		S < 5			
+Nachman et al. 1988	hprt	sequencing	geography	8	0.50	x	yes	-1.25	10	4	2485	no		S < 5			
+Nachman et al. 1988	ids	sequencing	geography	8	0.50	x	yes	undefined	10	0	1909	no		S < 5			
+Nachman et al. 1988	il2rg	sequencing	geography	8	0.50	x	yes	undefined	10	0	1147	no		S < 5			
+Nachman et al. 1988	pdha1	sequencing	geography	8	0.50	x	yes	1.13	10	5	1657	no		redundant and S < 5			
+Nachman et al. 1988	plp	sequencing	geography	8	0.50	x	yes	0.12	10	2	769	no		S < 5			
+Passarino et al. 2001	WRN	DHPLC (denaturing high performance liquid chromatography)	geography	41	0.19	auto.	yes	-1.10	186	58	12839	yes	4				
+Sale et al. 2002	Tubulin M40	DHPLC (denaturing high performance liquid chromatography)	geography	55	0.17	auto.	yes	-0.78	186	9	2444	yes	2				
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	AMPD1	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.18	auto.	yes	-2.07	188						"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	BRCA2	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.22	auto.	yes	-2.10	190						"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	COL/MMP1	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.20	auto.	yes	-1.19	188						"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	COX2	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.19	auto.	yes	-2.16	188						"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	CYP1A1	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.18	auto.	yes	-2.20	188						"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	DIAPH2	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.22	x	yes	-1.36	122						"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	EA2	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.20	auto.	yes	-1.72	188						"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	FBN1	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.18	auto.	yes	-1.80	184						"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	IL4	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.18	auto.	yes	-1.19	186					redundant	"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	MCM	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.22	x	yes	-0.96	122						"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	MTE	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.18	auto.	yes	-1.71	184						"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	STR/MMP3	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.19	auto.	yes	-1.09	188					redundant	"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"Shen et al. 2000; P. Shen & P. Oefner, pers. comm."	XRCC1	DHPLC (denaturing high performance liquid chromatography)	geography	55*	0.18	auto.	yes	-1.45	188						"* The loci in Shen et al. 2001 are a similar study design and sampling scheme to ATM and Tubulin M40 (P. Shen and P. Oefner, pers. comm.)"		
+"T. Kitano and S. Paabo, pers. comm."	FMR2	sequencing	geography	19	0.35	x	yes	-1.19	20	3	2994			S < 5			
+"T. Kitano and S. Paabo, pers. comm."	GDI1	sequencing	geography	19	0.35	x	yes	-1.31	20	11	3470						
+"T. Kitano and S. Paabo, pers. comm."	IL1RAPL1	sequencing	geography	19	0.35	x	yes	-1.29	20	6	3334						
+"T. Kitano and S. Paabo, pers. comm."	L1CAM	sequencing	geography	19	0.35	x	yes	-1.43	20	7	3410			redundant			
+"T. Kitano and S. Paabo, pers. comm."	OPA	sequencing	geography	19	0.35	x	yes	-0.25	20	4	3061			S < 5			
+"T. Kitano and S. Paabo, pers. comm."	OPHN1	sequencing	geography	19	0.35	x	yes	0.55	20	5	4053						
+"T. Kitano and S. Paabo, pers. comm."	PAK3	sequencing	geography	19	0.35	x	yes	-1.44	20	3	2877			S < 5			
+"T. Kitano and S. Paabo, pers. comm."	RSK2	sequencing	geography	19	0.35	x	yes	-1.16	20	1	3281			S < 5			
+"T. Kitano and S. Paabo, pers. comm."	TM4SF2	sequencing	geography	19	0.35	x	yes	-0.46	20	8	3172						
+Thorensten et al. 2001	ATM	DHPLC (denaturing high performance liquid chromatography)	geography	55	0.19	auto.	yes	-1.98	186	88	23829	no					
+Yu et al. 2001	1q24	sequencing	geography	14	0.33	auto.	yes	-1.20	122	52	9626	yes	4				
+Zhao et al. 2000	22q11.2	sequencing	geography	16	0.31	auto.	no	-1.03	128	75	9901	yes	4					
+																		
+"A. DiRienzo, pers. comm."	HR1	sequencing	population	3	0.33	auto.	no	-0.75	90		~2kb							
+"A. DiRienzo, pers. comm."	HR2	sequencing	population	3	0.33	auto.	no	-1.65	90		~2kb							
+"A. DiRienzo, pers. comm."	HR3	sequencing	population	3	0.33	auto.	no	-1.03	90		~2kb							
+"A. DiRienzo, pers. comm."	HR4	sequencing	population	3	0.33	auto.	no	-1.04	90		~2kb							
+"A. DiRienzo, pers. comm."	HR5	sequencing	population	3	0.33	auto.	no	-0.24	90		~2kb							
+"A. DiRienzo, pers. comm."	LR1	sequencing	population	3	0.33	auto.	no	-0.61	90		~2kb							
+"A. DiRienzo, pers. comm."	LR2	sequencing	population	3	0.33	auto.	no	-0.39	90		~2kb							
+"A. DiRienzo, pers. comm."	LR3	sequencing	population	3	0.33	auto.	no	-0.66	90		~2kb							
+"A. DiRienzo, pers. comm."	LR4	sequencing	population	3	0.33	auto.	no	-0.28	90		~2kb							
+"A. DiRienzo, pers. comm."	LR5	sequencing	population	3	0.33	auto.	no	-1.47	90		~2kb							
+Frisse et al. 2001; http://www.genes.uchicago.edu/fri/drnzores/labwebsite/LPfrontpage.html	region 1	sequencing	population	3	0.33	auto.	no	-1.00	90	15	2423	yes	3					
+Frisse et al. 2001; http://www.genes.uchicago.edu/fri/drnzores/labwebsite/LPfrontpage.html	region 10	sequencing	population	3	0.33	auto.	no	-0.38	90	19	2110	no						
+Frisse et al. 2001; http://www.genes.uchicago.edu/fri/drnzores/labwebsite/LPfrontpage.html	region 2	sequencing	population	3	0.33	auto.	no	-0.41	90	23	2552	yes	2					
+Frisse et al. 2001; http://www.genes.uchicago.edu/fri/drnzores/labwebsite/LPfrontpage.html	region 3	sequencing	population	3	0.33	auto.	no	0.32	90	22	2792	yes	3					
+Frisse et al. 2001; http://www.genes.uchicago.edu/fri/drnzores/labwebsite/LPfrontpage.html	region 4	sequencing	population	3	0.33	auto.	no	0.25	90	19	2560	yes	2					
+Frisse et al. 2001; http://www.genes.uchicago.edu/fri/drnzores/labwebsite/LPfrontpage.html	region 5	sequencing	population	3	0.33	auto.	no	-0.31	90	15	3050	yes	1					
+Frisse et al. 2001; http://www.genes.uchicago.edu/fri/drnzores/labwebsite/LPfrontpage.html	region 6	sequencing	population	3	0.33	auto.	no	-1.65	90	26	2920	yes	1					
+Frisse et al. 2001; http://www.genes.uchicago.edu/fri/drnzores/labwebsite/LPfrontpage.html	region 7	sequencing	population	3	0.33	auto.	no	0.64	90	14	2811	yes	3					
+Frisse et al. 2001; http://www.genes.uchicago.edu/fri/drnzores/labwebsite/LPfrontpage.html	region 8	sequencing	population	3	0.33	auto.	no	-1.08	90	17	2034	no						
+Frisse et al. 2001; http://www.genes.uchicago.edu/fri/drnzores/labwebsite/LPfrontpage.html	region 9	sequencing	population	3	0.33	auto.	no	0.19	90	8	1791	yes	1					
+Fullerton et al. 2000	B-globin initiation region	sequencing	population	2	0.33	auto.	yes	0.42	36	39	6077	yes	7	redundant				
+Gilad et al. 2000; Nachman 2001	OR pseudo	sequencing	population	3	0.00	auto.	yes	0.40	66	21	4535							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	BDKRB2	sequencing	population	2	0.51	auto.	yes	-1.19	94	77	14048							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	CRF	sequencing	population	2	0.51	auto.	yes	-0.01	94	40	9559							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	CRP	sequencing	population	2	0.51	auto.	yes	-0.44	94	30	6714							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	CSF2	sequencing	population	2	0.51	auto.	yes	-0.67	94	36	5992							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	CSF3	sequencing	population	2	0.51	auto.	yes	-0.44	94	30	5527							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	CYP4F2	sequencing	population	2	0.51	auto.	yes	-0.56	94	155	18695							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	DCN	sequencing	population	2	0.51	auto.	yes	-1.48	94	157	34942							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	F13A1	sequencing	population	2	0.51	auto.	yes	-0.05	94	216	29519							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	F2	sequencing	population	2	0.51	auto.	yes	-1.44	94	103	20397							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	F2R	sequencing	population	2	0.51	auto.	yes	-1.08	94	115	24214							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	F2RL1	sequencing	population	2	0.51	auto.	yes	-1.45	94	113	18351							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	F2RL2	sequencing	population	2	0.51	auto.	yes	-0.34	94	69	9273							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	F2RL3	sequencing	population	2	0.51	auto.	yes	-0.71	94	51	10210							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	F7	sequencing	population	2	0.51	auto.	yes	-1.14	94	51	11922							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	FGA	sequencing	population	2	0.51	auto.	yes	-1.10	94	29	9946							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	FGB	sequencing	population	2	0.51	auto.	yes	-1.01	94	55	11602							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	FGG	sequencing	population	2	0.51	auto.	yes	-1.29	94	27	10170							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	FGL2	sequencing	population	2	0.51	auto.	yes	-1.00	94	19	6382							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	FSBP	sequencing	population	2	0.51	auto.	yes	-0.73	94	37	9846							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	GP1BA	sequencing	population	2	0.51	auto.	yes	-0.54	94	32	6241							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IFNG	sequencing	population	2	0.51	auto.	yes	-1.39	94	35	7665							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL10	sequencing	population	2	0.51	auto.	yes	0.67	94	32	7879							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL12A	sequencing	population	2	0.51	auto.	yes	0.17	94	53	11328							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL13	sequencing	population	2	0.51	auto.	yes	-0.71	94	32	6919							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL17B	sequencing	population	2	0.51	auto.	yes	-1.08	94	44	9077							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL19	sequencing	population	2	0.51	auto.	yes	-1.07	94	49	10998							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL2	sequencing	population	2	0.51	auto.	yes	-1.28	94	24	6752							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL20	sequencing	population	2	0.51	auto.	yes	-1.03	94	30	6634							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL21R	sequencing	population	2	0.51	auto.	yes	-0.80	94	138	25842							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL22	sequencing	population	2	0.51	auto.	yes	-0.63	94	53	8393							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL24	sequencing	population	2	0.51	auto.	yes	-0.58	94	49	10627							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL3	sequencing	population	2	0.51	auto.	yes	-1.60	94	30	6387							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL4 	sequencing	population	2	0.51	auto.	yes	-0.81	94	120	22845							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL4R	sequencing	population	2	0.51	auto.	yes	-0.08	94	195	25913							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL5	sequencing	population	2	0.51	auto.	yes	-1.38	94	18	5186							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL6	sequencing	population	2	0.51	auto.	yes	-0.66	94	49	7525							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL8	sequencing	population	2	0.51	auto.	yes	-1.21	94	37	7034							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL9 	sequencing	population	2	0.51	auto.	yes	-1.41	94	32	6676							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	IL9R	sequencing	population	2	0.51	auto.	yes	-0.38	94	109	15234							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	LTA	sequencing	population	2	0.51	auto.	yes	0.57	94	23	5033							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	LTB	sequencing	population	2	0.51	auto.	yes	-1.87	94	19	4412							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	MMP3	sequencing	population	2	0.51	auto.	yes	-0.62	94	64	11899							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	PLAU	sequencing	population	2	0.51	auto.	yes	0.24	94	37	9273							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	PROC 	sequencing	population	2	0.51	auto.	yes	0.33	94	58	12874							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	PROCR	sequencing	population	2	0.51	auto.	yes	0.24	94	17	6967							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	PROZ	sequencing	population	2	0.51	auto.	yes	-1.23	94	100	14364							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	SERPINA5	sequencing	population	2	0.51	auto.	yes	0.30	94	70	7805							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	SERPINC1	sequencing	population	2	0.51	auto.	yes	-0.58	94	49	15206							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	SERPINE1	sequencing	population	2	0.51	auto.	yes	-0.84	94	95	13206							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	SFTPB	sequencing	population	2	0.51	auto.	yes	-0.62	94	53	11091							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	SMP1	sequencing	population	2	0.51	auto.	yes	-1.09	94	105	25269							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	STAT4	sequencing	population	2	0.51	auto.	yes	-1.43	94	112	28351							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	STAT6	sequencing	population	2	0.51	auto.	yes	-1.36	94	61	18790							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	THBD	sequencing	population	2	0.51	auto.	yes	-1.75	94	30	7253							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	TNF 	sequencing	population	2	0.51	auto.	yes	-1.71	94	24	4830							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	TNFAIP1	sequencing	population	2	0.51	auto.	yes	-1.80	94	60	14328							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	VEGF	sequencing	population	2	0.51	auto.	yes	-0.30	94	75	15442							
+http://www.fhcrc.org/labs/kruglyak/PGA/table.html (data accessed on 2/18/02 and 4/15/02)	VTN	sequencing	population	2	0.51	auto.	yes	-0.63	94	30	5559							
+Nakajima et al. 2002	AGT	sequencing	population	2	0.00	auto.	yes		72	44	14400	no	1	missing D				
+Nickerson et al. 1998; Clark et al. 1998	LPL	sequencing	population	3	0.34	auto.	yes	0.91	142	88	9734	yes	9					
+Nickerson et al. 2000	APOE	sequencing	population	3	0.33	auto.	yes	-0.51	144	21	5491	no	1					
+Rieder et al. 1999 and Nachman 2001	ACE	sequencing	population	2	0.45	auto.	yes	0.11	22	78	24070							
+																		
+"D. Cutler, pers. comm"	"1, NPY"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.30	67						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"10, HD"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.87	72						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"11, SNAP25"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.52	76						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"12, GRM1"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.64	77						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"13, RELN"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.57	71						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"14, SEMA"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.89	72						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"15, GLUR5"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.85	71						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"16, SVMT"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.61	70						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"17, HAP"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.47	77						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"18, GRIN2B"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	0.21	72						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	19. GRM1	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.84	69						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"2, CACNB1"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-1.39	68						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"20, FXR1"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-1.08	72						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"21, EDR1"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	0.05	75						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"22, CALB1"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.44	75						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"23, 5A-SMA"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.40	77						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"24, PAX6"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.86	75						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"25, ATP2A2"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-1.48	75						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"26, EDN"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-1.16	76						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"27, SOX10"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.87	72						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"28, RET"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	0.02	69						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"29, ECE1"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-1.13	70						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"3, BCNA1"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-1.03	67						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"30, DUFFY"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.70	71						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"31, EDNRB"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.69	73						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"32, PER1"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.79	75						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"33, GLRA2"	VDA (variable detection arrays)	US	5**	0.27**	x	yes	0.05	38						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"34, MAO-A "	VDA (variable detection arrays)	US	5**	0.27**	x	yes	-0.52	38						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"35, KCND1"	VDA (variable detection arrays)	US	5**	0.27**	x	yes	-1.18	38						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"36, ATRX"	VDA (variable detection arrays)	US	5**	0.27**	x	yes	-1.14	37						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"37, AGA"	VDA (variable detection arrays)	US	5**	0.27**	x	yes	-0.67	38						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"38, TRP"	VDA (variable detection arrays)	US	5**	0.27**	x	yes	-1.81	38						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"39, BOM"	VDA (variable detection arrays)	US	5**	0.27**	x	yes	-0.87	39						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"4, DBH"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.34	74						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"40, MEC"	VDA (variable detection arrays)	US	5**	0.27**	x	yes	-0.88	37						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"5, VAMP-VAP33"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-1.37	71						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"6, GABABR"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.70	72						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"7, CREB-CBP"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-1.56	76						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"8, ANK2"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-0.76	76						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+"D. Cutler, pers. comm"	"9, PSEN1"	VDA (variable detection arrays)	US	5**	0.27**	auto.	yes	-1.51	77						**Data come from a subsample of NIH discovery panel of 450 individuals who were sampled randomly from 5 U.S. ethnic groups.  We assume that the prAf in the randomly chosen subsample is the same as in the original sample of 450 (i.e. 0.27).			
+Glatt et al. 2001	SLC18A2	DHPLC (denaturing high performance liquid chromatography)	US	5**	0.27**	auto.	yes		900	21	3798			missing D				
+Glatt et al. 2001	SLC6A4	DHPLC (denaturing high performance liquid chromatography)	US	5**	0.27**	auto.	yes		900	20	3632			missing D				
+"Stephans et al. 2001; J. Schneider, pers. comm"	753P9	sequencing	US	19***	0.25	x	yes	-1.81	124	8	3502				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	ABCG2	sequencing	US	19***	0.24	auto.	yes	-0.52	164	34	5084				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	ACTL6	sequencing	US	19***	0.24	auto.	yes	-1.73	164	14	3739				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	ADCYAP1	sequencing	US	19***	0.24	auto.	yes	-0.72	164	12	1752				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	AKR7A2	sequencing	US	19***	0.24	auto.	yes	-1.95	164	19	2489				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	ALEX3	sequencing	US	19***	0.25	x	yes	-1.24	124	3	2001			S < 5	***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	AP2M1	sequencing	US	19***	0.24	auto.	yes	-0.65	164	17	3806				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	AQP3	sequencing	US	19***	0.24	auto.	yes	-0.19	164	12	2740				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	ARPC5	sequencing	US	19***	0.24	auto.	yes	-1.35	164	6	913				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	ATP1B4	sequencing	US	19***	0.25	x	yes	-1.39	124	8	2143				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	AUP1	sequencing	US	19***	0.24	auto.	yes	-0.20	164	4	3147			S < 5	***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	B3GALT3	sequencing	US	19***	0.24	auto.	yes	-0.98	164	7	1618				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	B3GALT4	sequencing	US	19***	0.24	auto.	yes	-1.53	164	5	1802				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	B4-2	sequencing	US	19***	0.24	auto.	yes	-1.75	164	17	2250				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	B4GALT2	sequencing	US	19***	0.24	auto.	yes	-0.61	164	8	2441				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	BCL2L10	sequencing	US	19***	0.24	auto.	yes	-0.41	164	13	1765				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	BCL2L2	sequencing	US	19***	0.24	auto.	yes	-0.45	164	5	1733				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	BET3	sequencing	US	19***	0.24	auto.	yes	-1.12	164	16	2331				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	BM-002	sequencing	US	19***	0.24	auto.	yes	-1.37	164	19	1884				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	BMP10	sequencing	US	19***	0.24	auto.	yes	-2.02	164	12	1890				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	BPHL	sequencing	US	19***	0.24	auto.	yes	-1.79	164	24	3247				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	BY55	sequencing	US	19***	0.24	auto.	yes	-0.77	164	4	1074			S < 5	***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	C12orf6	sequencing	US	19***	0.24	auto.	yes	-0.81	164	5	2596				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	C1orf1	sequencing	US	19***	0.24	auto.	yes	-0.65	164	8	1519				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	C21orf62	sequencing	US	19***	0.24	auto.	yes	1.15	164	4	1461			S < 5	***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	C22orf3	sequencing	US	19***	0.24	auto.	yes	-1.10	164	9	2457				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	C9orf9	sequencing	US	19***	0.24	auto.	yes	-1.17	164	14	2194				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CALML3	sequencing	US	19***	0.24	auto.	yes	-1.21	164	8	1062				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CCT7	sequencing	US	19***	0.24	auto.	yes	-0.58	164	21	3836				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CD3E	sequencing	US	19***	0.24	auto.	yes	0.32	164	14	2808				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CD59	sequencing	US	19***	0.24	auto.	yes	-1.76	164	13	1855				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CD63	sequencing	US	19***	0.24	auto.	yes	-1.96	164	7	1875				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CDC23	sequencing	US	19***	0.24	auto.	yes	-1.26	164	14	3931				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CDC37	sequencing	US	19***	0.24	auto.	yes	-1.78	164	6	1699				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CECR1	sequencing	US	19***	0.24	auto.	yes	-0.58	164	10	2037				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CEP3	sequencing	US	19***	0.24	auto.	yes	-1.11	164	11	1716				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CHAD	sequencing	US	19***	0.24	auto.	yes	-0.93	164	5	707				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CHRAC1	sequencing	US	19***	0.24	auto.	yes	-1.78	164	17	1398				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CHRNA10	sequencing	US	19***	0.24	auto.	yes	-1.81	164	21	3176				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CIS4	sequencing	US	19***	0.24	auto.	yes	-1.22	164	18	2557				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CKAP1	sequencing	US	19***	0.24	auto.	yes	-0.99	164	14	2694				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CLCA4	sequencing	US	19***	0.24	auto.	yes	-1.54	164	29	5054				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CLDN9	sequencing	US	19***	0.24	auto.	yes	-0.02	164	5	1266				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CLG01	sequencing	US	19***	0.24	auto.	yes	-1.21	164	20	2143				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CLONE24922	sequencing	US	19***	0.24	auto.	yes	-1.59	164	18	2396				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CLST11240	sequencing	US	19***	0.24	auto.	yes	0.00	164	6	601				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CORO2A	sequencing	US	19***	0.24	auto.	yes	-1.93	164	22	4628				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	COX15	sequencing	US	19***	0.24	auto.	yes	-1.60	164	15	3001				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CPSF6	sequencing	US	19***	0.24	auto.	yes	-1.81	164	15	2864				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	CRHSP-24	sequencing	US	19***	0.24	auto.	yes	-1.06	164	12	1501				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	DKFZp434C0923	sequencing	US	19***	0.24	auto.	yes	-2.32	164	15	1771				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	DKFZp547G183	sequencing	US	19***	0.24	auto.	yes	-1.84	164	7	1092				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	DKFZp547M236	sequencing	US	19***	0.24	auto.	yes	-0.74	164	5	701				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	DKFZP564J157	sequencing	US	19***	0.24	auto.	yes	-0.77	164	6	1119				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	DKFZP566B183	sequencing	US	19***	0.24	auto.	yes	-1.50	164	12	1979				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	DKFZP566C243	sequencing	US	19***	0.24	auto.	yes	-1.68	164	19	3518				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	DKFZP586N0819	sequencing	US	19***	0.25	x	yes	-1.38	124	2	1248			S < 5	***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	DKFZp761C07121	sequencing	US	19***	0.24	auto.	yes	-1.31	164	3	1555			S < 5	***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	DKFZp761K1824	sequencing	US	19***	0.24	auto.	yes	-1.29	164	10	1383				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	DNAJB9	sequencing	US	19***	0.24	auto.	yes	0.85	164	6	1206				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	DXS1283E	sequencing	US	19***	0.25	x	yes	-1.77	124	8	2780				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	EFEMP2	sequencing	US	19***	0.24	auto.	yes	-0.76	164	22	2946				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	EFS2	sequencing	US	19***	0.24	auto.	yes	-0.49	164	22	3766				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	ELF5	sequencing	US	19***	0.24	auto.	yes	-0.79	164	13	2125				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	EPPIN3	sequencing	US	19***	0.24	auto.	yes	-0.87	164	19	1974				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	ETV3	sequencing	US	19***	0.24	auto.	yes	-1.33	164	14	2287				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FGF21	sequencing	US	19***	0.24	auto.	yes	-1.07	164	7	1489				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FGR	sequencing	US	19***	0.24	auto.	yes	-1.79	164	23	4445				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FIBP	sequencing	US	19***	0.24	auto.	yes	-1.06	164	13	3082				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FIGN	sequencing	US	19***	0.24	auto.	yes	-1.08	164	12	2662				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10139	sequencing	US	19***	0.24	auto.	yes	-0.24	164	3	1427			S < 5	***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10141	sequencing	US	19***	0.24	auto.	yes	-1.68	164	9	1459				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10213	sequencing	US	19***	0.24	auto.	yes	0.00	164	15	1248				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10241	sequencing	US	19***	0.24	auto.	yes	-0.80	164	15	2591				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10314	sequencing	US	19***	0.24	auto.	yes	-0.82	164	14	1891				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10369	sequencing	US	19***	0.24	auto.	yes	-1.27	164	19	2589				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10430	sequencing	US	19***	0.24	auto.	yes	-1.45	164	5	1435				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10432	sequencing	US	19***	0.24	auto.	yes	-0.99	164	17	2294				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10490	sequencing	US	19***	0.24	auto.	yes	-0.50	164	6	1107				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10546	sequencing	US	19***	0.24	auto.	yes	-0.97	164	1	1671			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10559	sequencing	US	19***	0.24	auto.	yes	-0.75	164	13	2011				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10597	sequencing	US	19***	0.24	auto.	yes	-0.34	164	3	1291			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10675	sequencing	US	19***	0.24	auto.	yes	0.09	164	12	1631				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10811	sequencing	US	19***	0.24	auto.	yes	-1.39	164	5	3162				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ10903	sequencing	US	19***	0.24	auto.	yes	-0.88	164	7	1367				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ11269	sequencing	US	19***	0.24	auto.	yes	-0.44	164	7	2582				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ11274	sequencing	US	19***	0.24	auto.	yes	-1.75	164	16	3711				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ11286	sequencing	US	19***	0.24	auto.	yes	-1.87	164	6	3196				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ20116	sequencing	US	19***	0.24	auto.	yes	0.19	164	22	2620				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ20232	sequencing	US	19***	0.24	auto.	yes	-1.83	164	14	2193				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ20654	sequencing	US	19***	0.24	auto.	yes	-0.35	164	12	1571				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ20712	sequencing	US	19***	0.24	auto.	yes	-1.72	164	19	1788				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ20808	sequencing	US	19***	0.24	auto.	yes	0.15	164	14	1221				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FLJ20847	sequencing	US	19***	0.24	auto.	yes	-1.47	164	9	1761				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FN14	sequencing	US	19***	0.24	auto.	yes	-0.56	164	7	1173				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	FZD1	sequencing	US	19***	0.24	auto.	yes	-1.27	164	14	2687				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	GHSR	sequencing	US	19***	0.24	auto.	yes	-1.06	164	7	1467				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	GIII-SPLA2	sequencing	US	19***	0.24	auto.	yes	-0.38	164	20	3842				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	GJA5	sequencing	US	19***	0.24	auto.	yes	-0.60	164	9	2026				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	GNPI	sequencing	US	19***	0.24	auto.	yes	-0.59	164	14	2820				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	GPD1	sequencing	US	19***	0.24	auto.	yes	-1.89	164	8	3430				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	GTPBP2	sequencing	US	19***	0.24	auto.	yes	-1.78	164	11	2773				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	GUCA1B	sequencing	US	19***	0.24	auto.	yes	-1.47	164	8	408				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	HAS3	sequencing	US	19***	0.24	auto.	yes	-0.97	164	9	3014				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	HB-1	sequencing	US	19***	0.24	auto.	yes	-1.33	164	4	1095			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	HCGIX	sequencing	US	19***	0.24	auto.	yes	0.89	164	5	882				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	HEBP	sequencing	US	19***	0.24	auto.	yes	-0.88	164	5	1467				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	HEMK	sequencing	US	19***	0.24	auto.	yes	-0.56	164	14	3320				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	HNL3	sequencing	US	19***	0.25	x	yes	-1.54	124	6	4408				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	HS1119D91	sequencing	US	19***	0.24	auto.	yes	-0.64	164	16	2142				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	HSA272195	sequencing	US	19***	0.24	auto.	yes	-1.97	164	12	3239				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	HSPC207	sequencing	US	19***	0.24	auto.	yes	0.00	164	12	1971				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	HSPC228	sequencing	US	19***	0.24	auto.	yes	-1.86	164	19	2296				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	HT011	sequencing	US	19***	0.24	auto.	yes	-1.24	164	6	1570				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	IGRP	sequencing	US	19***	0.24	auto.	yes	-1.26	164	19	2784				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	IL17BR	sequencing	US	19***	0.24	auto.	yes	-1.68	164	24	2917				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	IL1RN	sequencing	US	19***	0.24	auto.	yes	0.21	164	11	1762				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	IL20	sequencing	US	19***	0.24	auto.	yes	-0.62	164	10	1929			redundant	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	IPEX	sequencing	US	19***	0.25	x	yes	-0.91	124	6	3921				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	IRX4	sequencing	US	19***	0.24	auto.	yes	-0.40	164	9	3142				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	K6HF	sequencing	US	19***	0.24	auto.	yes	-1.69	164	31	4167				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KCNK4	sequencing	US	19***	0.24	auto.	yes	-1.44	164	12	3381				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KIAA0426	sequencing	US	19***	0.24	auto.	yes	-1.20	164	24	3135				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KIAA0441	sequencing	US	19***	0.24	auto.	yes	-2.06	164	13	3465				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KIAA0469	sequencing	US	19***	0.24	auto.	yes	-1.37	164	12	2858				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KIAA0721	sequencing	US	19***	0.24	auto.	yes	-0.71	164	11	1966				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KIAA0732	sequencing	US	19***	0.24	auto.	yes	-1.96	164	17	3354				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KIAA0872	sequencing	US	19***	0.24	auto.	yes	-0.82	164	19	3504				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KIAA1084	sequencing	US	19***	0.24	auto.	yes	-0.59	164	4	2371			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KIAA1169	sequencing	US	19***	0.24	auto.	yes	-1.59	164	8	1639				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KIAA1513	sequencing	US	19***	0.24	auto.	yes	-0.77	164	6	1074				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KIAA1844	sequencing	US	19***	0.24	auto.	yes	-0.72	164	8	1827				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KLK5	sequencing	US	19***	0.24	auto.	yes	-1.77	164	14	2423				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KLRF1	sequencing	US	19***	0.24	auto.	yes	-1.70	164	10	2397				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	KRT2A	sequencing	US	19***	0.24	auto.	yes	-1.83	164	18	2836				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LALBA	sequencing	US	19***	0.24	auto.	yes	-1.08	164	7	897				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LBP	sequencing	US	19***	0.24	auto.	yes	-1.06	164	57	5214				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LCN2	sequencing	US	19***	0.24	auto.	yes	-1.49	164	10	2147				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LENEP	sequencing	US	19***	0.24	auto.	yes	-1.28	164	3	1158			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LIG4	sequencing	US	19***	0.24	auto.	yes	-1.47	164	13	2657				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51042	sequencing	US	19***	0.24	auto.	yes	-0.35	164	14	1646				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51063	sequencing	US	19***	0.24	auto.	yes	-1.75	164	6	1740				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51082	sequencing	US	19***	0.24	auto.	yes	-1.61	164	21	1645				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51123	sequencing	US	19***	0.24	auto.	yes	-1.20	164	8	1483				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51159	sequencing	US	19***	0.24	auto.	yes	-1.47	164	6	1551				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51189	sequencing	US	19***	0.24	auto.	yes	1.36	164	10	1247				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51192	sequencing	US	19***	0.24	auto.	yes	-0.65	164	9	2158				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51213	sequencing	US	19***	0.25	x	yes	-1.63	124	6	2171				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51255	sequencing	US	19***	0.24	auto.	yes	-0.74	164	14	1827				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51285	sequencing	US	19***	0.24	auto.	yes	0.05	164	12	2296				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51293	sequencing	US	19***	0.24	auto.	yes	-0.89	164	30	2262				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51595	sequencing	US	19***	0.24	auto.	yes	-0.47	164	4	1720			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51603	sequencing	US	19***	0.24	auto.	yes	0.72	164	25	3525				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51655	sequencing	US	19***	0.24	auto.	yes	-1.20	164	15	1602				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51706	sequencing	US	19***	0.24	auto.	yes	-0.24	164	15	2412				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC51733	sequencing	US	19***	0.24	auto.	yes	-0.75	164	17	3670				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC55586	sequencing	US	19***	0.24	auto.	yes	-0.87	164	20	2624				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC55873	sequencing	US	19***	0.24	auto.	yes	-1.48	164	7	2809				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC55954	sequencing	US	19***	0.24	auto.	yes	-1.33	164	9	1541				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC55969	sequencing	US	19***	0.24	auto.	yes	-1.64	164	7	1777				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LOC58486	sequencing	US	19***	0.24	auto.	yes	-1.88	164	20	3308				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LPHA	sequencing	US	19***	0.24	auto.	yes	-0.17	164	13	1389				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LPHB	sequencing	US	19***	0.24	auto.	yes	-0.16	164	14	1687				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LPRP	sequencing	US	19***	0.24	auto.	yes	1.06	164	8	1748				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LSM4	sequencing	US	19***	0.24	auto.	yes	-1.28	164	18	2373				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	LYPLA2	sequencing	US	19***	0.24	auto.	yes	-2.18	164	12	2681				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	M9	sequencing	US	19***	0.24	auto.	yes	-1.61	164	17	3112				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MAD2L2	sequencing	US	19***	0.24	auto.	yes	-0.97	164	25	2905				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MAD4	sequencing	US	19***	0.24	auto.	yes	-1.08	164	20	2529				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MAGEA1	sequencing	US	19***	0.25	x	yes	0.94	124	7	1197				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MAGEA11	sequencing	US	19***	0.25	x	yes	0.69	124	4	1911			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MAGEA12	sequencing	US	19***	0.25	x	yes	2.13	124	7	1578				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MAGEE1	sequencing	US	19***	0.25	x	yes	-0.34	124	4	1621			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MAGEL2	sequencing	US	19***	0.24	auto.	yes	-1.48	164	12	2454				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MAPK7	sequencing	US	19***	0.24	auto.	yes	-1.46	164	10	3502				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MATN4	sequencing	US	19***	0.24	auto.	yes	-0.59	164	30	3241				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MCT-1	sequencing	US	19***	0.25	x	yes	-0.42	124	5	2523				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MD-1	sequencing	US	19***	0.24	auto.	yes	-1.29	164	17	2071				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MED6	sequencing	US	19***	0.24	auto.	yes	-1.10	164	7	1279				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MEL	sequencing	US	19***	0.24	auto.	yes	-0.78	164	12	2401				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MIA	sequencing	US	19***	0.24	auto.	yes	-0.82	164	12	1898				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MINPP1	sequencing	US	19***	0.24	auto.	yes	-1.91	164	9	2518				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MLANA	sequencing	US	19***	0.24	auto.	yes	-0.84	164	11	2032				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MLLT1	sequencing	US	19***	0.24	auto.	yes	-1.21	164	19	3899				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MOBP	sequencing	US	19***	0.24	auto.	yes	-0.54	164	12	2044				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MOCS2	sequencing	US	19***	0.24	auto.	yes	-2.07	164	16	2458				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MOST-1	sequencing	US	19***	0.24	auto.	yes	-1.22	164	17	2324				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MS4A7	sequencing	US	19***	0.24	auto.	yes	0.52	164	19	2510				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MYL2	sequencing	US	19***	0.24	auto.	yes	-1.32	164	7	1987				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	MYL3	sequencing	US	19***	0.24	auto.	yes	-0.50	164	10	2244				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NAB2	sequencing	US	19***	0.24	auto.	yes	0.00	164	10	2750				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NAF1	sequencing	US	19***	0.24	auto.	yes	-1.00	164	41	5862				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NCX	sequencing	US	19***	0.24	auto.	yes	-1.54	164	3	2109			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NDRG1	sequencing	US	19***	0.24	auto.	yes	-1.22	164	34	4253				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NDUFS3	sequencing	US	19***	0.24	auto.	yes	-2.08	164	10	1449				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NESH	sequencing	US	19***	0.24	auto.	yes	-0.66	164	19	3575				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NEU2	sequencing	US	19***	0.24	auto.	yes	-1.22	164	22	2295				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NEUROD6	sequencing	US	19***	0.24	auto.	yes	0.22	164	9	2067				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NFKBIA	sequencing	US	19***	0.24	auto.	yes	-0.55	164	16	2247				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NFKBIE	sequencing	US	19***	0.24	auto.	yes	-1.62	164	18	3048				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NOC4	sequencing	US	19***	0.24	auto.	yes	-1.16	164	14	2141				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NOL3	sequencing	US	19***	0.24	auto.	yes	-1.53	164	6	1093				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NOT56L	sequencing	US	19***	0.24	auto.	yes	-1.38	164	10	3170				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NPIP	sequencing	US	19***	0.24	auto.	yes	-1.67	164	4	2668			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NPR2L	sequencing	US	19***	0.24	auto.	yes	-0.79	164	13	3195				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NR2E1	sequencing	US	19***	0.24	auto.	yes	-1.35	164	14	3230				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NRF	sequencing	US	19***	0.25	x	yes	-1.38	124	2	1974			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NSP3	sequencing	US	19***	0.24	auto.	yes	-1.96	164	17	3046				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NTHL1	sequencing	US	19***	0.24	auto.	yes	-2.06	164	9	2774				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	NUBP1	sequencing	US	19***	0.24	auto.	yes	-1.19	164	21	2540				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	OMP	sequencing	US	19***	0.24	auto.	yes	-1.18	164	8	1095				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	OR2S2	sequencing	US	19***	0.24	auto.	yes	-1.22	164	20	1881				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	P2Y5	sequencing	US	19***	0.24	auto.	yes	-1.01	164	5	1635				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PAX4	sequencing	US	19***	0.24	auto.	yes	-1.47	164	19	3176				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	P-B	sequencing	US	19***	0.24	auto.	yes	-1.37	164	4	655			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PCDHB1	sequencing	US	19***	0.24	auto.	yes	-1.90	164	11	3035				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PCDHGC5	sequencing	US	19***	0.24	auto.	yes	-1.73	164	18	4069				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PDE6H	sequencing	US	19***	0.24	auto.	yes	-1.49	164	15	1368				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PDEF	sequencing	US	19***	0.24	auto.	yes	-0.78	164	19	2026				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PF4V1	sequencing	US	19***	0.24	auto.	yes	-0.35	164	7	327				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PFN1	sequencing	US	19***	0.24	auto.	yes	-0.64	164	5	692				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PHB	sequencing	US	19***	0.24	auto.	yes	-0.42	164	13	2553				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PIN	sequencing	US	19***	0.24	auto.	yes	0.86	164	11	1526				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PIN1	sequencing	US	19***	0.24	auto.	yes	0.04	164	7	2176				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PLA2G2E	sequencing	US	19***	0.24	auto.	yes	-0.44	164	10	1693				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PLP1	sequencing	US	19***	0.25	x	yes	-0.56	124	6	2492				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PNMA2	sequencing	US	19***	0.24	auto.	yes	-0.22	164	3	2046			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PP13	sequencing	US	19***	0.24	auto.	yes	-1.24	164	10	1675				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PPIF	sequencing	US	19***	0.24	auto.	yes	-0.81	164	13	2360				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PRELP	sequencing	US	19***	0.24	auto.	yes	-1.54	164	13	1568				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PRO0514	sequencing	US	19***	0.24	auto.	yes	-1.77	164	14	1661				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PRO1084	sequencing	US	19***	0.24	auto.	yes	0.46	164	3	1517			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PRO1617	sequencing	US	19***	0.24	auto.	yes	-1.44	164	10	2001				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PRO1995	sequencing	US	19***	0.24	auto.	yes	-1.19	164	4	1443			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PRO2472	sequencing	US	19***	0.24	auto.	yes	-1.31	164	8	1671				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PRO2543	sequencing	US	19***	0.24	auto.	yes	-0.53	164	5	876				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PRO2610	sequencing	US	19***	0.24	auto.	yes	-1.73	164	5	1135				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PRO3015	sequencing	US	19***	0.24	auto.	yes	-1.00	164	4	1239			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PRO3073	sequencing	US	19***	0.24	auto.	yes	1.19	164	7	1511				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	PROP1	sequencing	US	19***	0.24	auto.	yes	-1.04	164	9	972				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	RAB9L	sequencing	US	19***	0.25	x	yes	-1.28	124	2	1299			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	RAGA	sequencing	US	19***	0.24	auto.	yes	0.34	164	5	1826				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	RAP1	sequencing	US	19***	0.24	auto.	yes	-0.65	164	11	2064				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	RBP2	sequencing	US	19***	0.24	auto.	yes	-0.13	164	9	1574				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	RCL	sequencing	US	19***	0.24	auto.	yes	-1.63	164	6	1657				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	RDH8	sequencing	US	19***	0.24	auto.	yes	0.03	164	11	2440				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	REM	sequencing	US	19***	0.24	auto.	yes	-1.11	164	13	2527				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	RFX5	sequencing	US	19***	0.24	auto.	yes	-1.98	164	22	4471				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	RNASE3	sequencing	US	19***	0.24	auto.	yes	1.40	164	4	597			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	RPL6	sequencing	US	19***	0.24	auto.	yes	1.94	164	1	1595			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	S100A12	sequencing	US	19***	0.24	auto.	yes	-1.53	164	7	1186				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	S100A2	sequencing	US	19***	0.24	auto.	yes	-0.38	164	4	708			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	SCYA19	sequencing	US	19***	0.24	auto.	yes	-1.38	164	10	1543				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	SEMG1	sequencing	US	19***	0.24	auto.	yes	-1.43	164	12	2220				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	SEMG2	sequencing	US	19***	0.24	auto.	yes	-1.12	164	15	2609				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	SERPINA10	sequencing	US	19***	0.24	auto.	yes	-0.88	164	25	3037				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	SERPINA7	sequencing	US	19***	0.25	x	yes	-1.38	124	11	2742				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	SFRS1	sequencing	US	19***	0.24	auto.	yes	-0.19	164	8	2048				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	SLC31A1	sequencing	US	19***	0.24	auto.	yes	-1.02	164	6	2303				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	SMUG1	sequencing	US	19***	0.24	auto.	yes	-0.05	164	3	1234			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	SNFT	sequencing	US	19***	0.24	auto.	yes	-0.84	164	6	695				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	SPF30	sequencing	US	19***	0.24	auto.	yes	-1.93	164	11	2114				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	SPR1	sequencing	US	19***	0.24	auto.	yes	0.13	164	23	1720				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	STG	sequencing	US	19***	0.24	auto.	yes	1.02	164	37	2014				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	T2R4	sequencing	US	19***	0.24	auto.	yes	-0.64	164	14	1818				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	T2R5	sequencing	US	19***	0.24	auto.	yes	-0.03	164	18	1491				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TALDO1	sequencing	US	19***	0.24	auto.	yes	-1.43	164	3	1362			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TAS2R16	sequencing	US	19***	0.24	auto.	yes	-0.36	164	4	1471			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TBCC	sequencing	US	19***	0.24	auto.	yes	-1.77	164	7	1623				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TCP11	sequencing	US	19***	0.24	auto.	yes	-1.32	164	12	3077				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TEF	sequencing	US	19***	0.24	auto.	yes	-0.27	164	11	2266				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TEL2	sequencing	US	19***	0.24	auto.	yes	-1.24	164	24	3039				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TGIF2	sequencing	US	19***	0.24	auto.	yes	-0.73	164	2	1171			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TM4SF6	sequencing	US	19***	0.25	x	yes	-1.97	124	10	3353				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TM9SF1	sequencing	US	19***	0.24	auto.	yes	-1.68	164	22	3574				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TNFAIP1	sequencing	US	19***	0.24	auto.	yes	-1.32	164	6	2473			redundant	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TNFAIP2	sequencing	US	19***	0.24	auto.	yes	-1.07	164	29	3806				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TNFRSF14	sequencing	US	19***	0.24	auto.	yes	-0.71	164	24	3495				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TNFSF9	sequencing	US	19***	0.24	auto.	yes	-1.50	164	15	1890				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TNRC5	sequencing	US	19***	0.24	auto.	yes	-1.34	164	9	2210				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TOM34	sequencing	US	19***	0.24	auto.	yes	-0.25	164	21	3111				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TPT1	sequencing	US	19***	0.24	auto.	yes	-1.51	164	17	1920				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TRB7	sequencing	US	19***	0.24	auto.	yes	-1.08	164	10	1851				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TREM1	sequencing	US	19***	0.24	auto.	yes	-0.44	164	11	1553				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TREM2	sequencing	US	19***	0.24	auto.	yes	-1.80	164	12	2429				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TSC22	sequencing	US	19***	0.24	auto.	yes	-1.42	164	3	711			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TSPAN-1	sequencing	US	19***	0.24	auto.	yes	-2.07	164	12	2628				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TSSC4	sequencing	US	19***	0.24	auto.	yes	-1.69	164	14	2222				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TSSC6	sequencing	US	19***	0.24	auto.	yes	-1.05	164	35	3573				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TUBA8	sequencing	US	19***	0.24	auto.	yes	-2.00	164	28	3175				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TXNL	sequencing	US	19***	0.24	auto.	yes	-0.97	164	18	3367				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TYMSTR	sequencing	US	19***	0.24	auto.	yes	-0.09	164	10	2106				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	TZFP	sequencing	US	19***	0.24	auto.	yes	-1.52	164	19	3194				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	UBE1L	sequencing	US	19***	0.24	auto.	yes	-0.76	164	15	6249				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	UBE2D3	sequencing	US	19***	0.24	auto.	yes	-0.54	164	9	1351				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	UBE2L6	sequencing	US	19***	0.24	auto.	yes	-0.89	164	12	2059				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	UBL3	sequencing	US	19***	0.24	auto.	yes	-0.57	164	5	1651				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	UBPH	sequencing	US	19***	0.24	auto.	yes	-1.76	164	19	3248				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	UBQLN2	sequencing	US	19***	0.25	x	yes	-1.25	124	4	3067			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	UBQLN3	sequencing	US	19***	0.24	auto.	yes	-1.59	164	21	3054				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	UREB1	sequencing	US	19***	0.25	x	yes	-1.96	124	6	2412				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	UROD	sequencing	US	19***	0.24	auto.	yes	-0.34	164	4	1774			S < 5	***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	VAPB	sequencing	US	19***	0.24	auto.	yes	0.39	164	9	2477				***Based on personnel communication with J. Schneider.  		
+"Stephans et al. 2001; J. Schneider, pers. comm"	VAX2	sequencing	US	19***	0.24	auto.	yes	-1.46	164	11	1915				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	VTI2	sequencing	US	19***	0.24	auto.	yes	-1.80	164	16	2554				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	WARS	sequencing	US	19***	0.24	auto.	yes	-0.43	164	20	4002				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	WASF2	sequencing	US	19***	0.25	x	yes	-1.57	124	10	2051				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	WDR9	sequencing	US	19***	0.24	auto.	yes	-0.67	164	7	3030				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	WHSC1L1	sequencing	US	19***	0.24	auto.	yes	-1.45	164	10	2464				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	WHSC2	sequencing	US	19***	0.24	auto.	yes	-1.02	164	25	3880				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	WT1	sequencing	US	19***	0.24	auto.	yes	0.39	164	18	4090				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	XYLB	sequencing	US	19***	0.24	auto.	yes	-1.56	164	45	5179				***Based on personnel communication with J. Schneider.  			
+"Stephans et al. 2001; J. Schneider, pers. comm"	ZIP2	sequencing	US	19***	0.24	auto.	yes	-0.86	164	13	2147				***Based on personnel communication with J. Schneider.  			
+"Wu et al. 2001; C. Ober, pers. comm."	IL4RA	sequencing	US	3	0.33	auto.	yes	0.29	72	24	2941	no		redundant				
+Zhang and Rosenberg 2000	ECP	sequencing	US	4	0.39	auto.	yes	0.04	108	7	1203	no						
+Zhang and Rosenberg 2000	EDN	sequencing	US	4	0.30	auto.	yes	-1.28	134	9	1214	no						
+																		
+Gilad et al. 2002; note erratum 	MAO-A	sequencing	unclassifiable	8	0.13	x	yes	0.33	56	40	18820	yes	2	redundant				
+Hamblin and DiRienzo 2000; Wall and Przeworski 2000	duffy	sequencing	unclassifiable	6	0.59	auto.	yes	0.19	82	22	1931	yes	4	redundant				
+Harding et al. 1997; Nachman 2001	Beta-globin (HBB)	sequencing	unclassifiable	9	0.30	auto.	yes	1.06	349	19	2670							
+Koda et al. 2001	FUT2	sequencing	unclassifiable	5	0.41	auto.	yes	0.73	355	21	1014	yes	1					
+Koda et al. 2001	FUT6	sequencing	unclassifiable	5	0.08	auto.	yes	-0.43	486	18	1080	yes	1					
+Rana et al. 1999 and Nachman 2001	"Mc1r, coding"	sequencing	unclassifiable		0.21	auto.	yes	-0.15	242	6	951	no		redundant				
+Smirnova et al. 2001	TLR4	sequencing	unclassifiable			auto.	yes							missing D				

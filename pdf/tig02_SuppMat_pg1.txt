@@ -1,0 +1,56 @@
+Explanation of Variables in Table	
+Reference	"For published studies, see Literature Cited for full citation.  For unpublished loci, name of individual(s) who provided data and information about sampling design details.  For some published data, authors provided additional information, as noted. "
+Locus	Name of locus as listed in paper.
+Technology	Technology used for detection of single nucleotide polymorphisms.
+Sampling	Study is classified as: population if at least 10 individuals were sampled from each of at most 3 populations; worldwide if at most 10 individuals were sampled from each of at least 3 populations; U.S. if didn’t fit either criteria and individuals resided in U.S.  All others are marked as unclassifiable.
+nethn	"The number of ethnicities, following labels ascribed by the authors to the individuals in the sample."
+prAfr	The proportion of individuals in the sample that are African or African-American.
+sex	Whether the loci  is X-linked or autosomal.
+genic	Whether the loci  lies in a genic region.
+D value	Reported value of Tajima’s D for all individuals and all basepairs included in study.
+nchrom	Number of chromosomes examined.
+S	Number of segregating sites for all individuals and all basepairs.  Not available for some unpublished loci.
+#bps	Number of basepairs examined. Not available for some unpublished loci.
+indels?	"Whether indels were included as segregating sites, along with single nucleotide polymorphisms.  This information was not always indicated in published paper (left blank in table)."
+#indels	"If S included indels, the number of indels."
+reason for exclusion	The reason why this loci was excluded from our analyses:  Redundant if more than one researcher examined this loci; S < 5 if the locus was not minimally informative; and Missing D if an overall D was not reported (or provided) for all individuals and all basepairs.
+comments	Additional comments about the study.
+
+Literature Cited	
+1	"Clark, A.G. et al. (1998) Haplotype structure and population genetic inferences from nucleotide sequence variation in human lipoprotein lipase. Am. J. Hum. Gen. 63, 595-612"
+2	"Dienard, A. and K. Kidd. (1999) Evolution of a HOXB6 intergenic region within the great apes and humans. J. Hum. Evol. 36, 687-703."
+3	"Frisse, L. et al. (2001) Gene conversion and different population histories may explain the contrast between polymorphism and linkage disequilibrium levels. Am. J. Hum. Gen. 69, 831-843"
+4	"Fullerton, S.M. et al. (2000) Polymorphism and divergence in the b-Globin replication origin initiation region. Mol. Biol. Evol. 17, 179-188"
+5	"Gilad, Y. et al. (2000) Dichotomy of single-nucleotide polymorphism haplotypes in olfactory receptor genes and pseudogenes. Nature Gen. 26, 221-224"
+6	"Gilad, Y. et al. (2002) Evidence for positive selection and population structure at the human MAO-A gene. Proc. Natl. Acad. Sci. USA 99, 862-867"
+7	"Glatt, C.E. et al. (2001) Screening a large reference sample to identify very low frequency sequence variants: comparisons between two genes. Nature Gen. 27, 435-438"
+8	"Hamblin, M.T. and DiRienzo, A. (2000) Detection of the signature of natural selection in humans: Evidence from the Duffy blood group locus. Am. J. Hum. Gen. 66: 1669-1679."
+9	"Harding, R.M. et al. (1997) Archaic african and asian lineages in the genetic ancestry of modern humans. Am. J. Hum. Gen. 60, 772-789"
+10	"Harris, E.E. and Hey, J. (1999) X chromosome evidence for ancient human histories. Proc. Natl. Acad. Sci. USA 96, 3320-3324"
+11	"Harris, E.E. and Hey, J. (2001) Human populations show reduced DNA sequence variation at the Factor IX locus. Curr. Biol. 11, 774-778"
+12	"Jaruzelska, J. et al. (1999) Spatial and temporal distribution of the neutral polymorphisms in the last ZFX intron:  Analysis of the haplotype structure and geneology. Genetics 152: 1091-1101"
+13	"Kaessmann, H. et al. (1999) DNA sequence variation in a non-coding region of low recombination on the human X chromosome. Nature Gen. 22, 78-81"
+14	"Koda, Y. et al. (2001) Contrasting patterns of polymorphisms at the ABO-Secretor Gene (FUT2) and Plasma a (1,3) Fucosyltransferase gene (FUT6) in human populations. Genetics 158: 747-756."
+15	"Makova, K.D. et al. (2001) Human DNA sequence variation in a 6.6-kb region containing the melanocortin 1 receptor promoter. Genetics 158, 1253-1268"
+16	"Martinez-Arias, R. et al. (2001) Sequence variability of a human pseudogene. Gen. Res. 11, 1071-1085"
+17	"Mathews, D.J. et al. (2001) Sequence variation within the Fragile X locus. Gen. Res. 11, 1382-1391 "
+28	"Nachman, M.W. (2001) Single nucleotide polymorphisms and recombination rate in humans. Trends Gen. 117, 481-485"
+29	"Nachman, M.W. and S.L. Crowell. (2000) Contrasting evolutionary histories of two introns of the duchenne muscular dystrophy gene, Dmd, in humans. Genetics 155, 1855-1854"
+20	"Nachman, M.W. et al. (1998) DNA variability and recombination rates at X-linked loci in humans. Genetics 150, 1133-1141"
+21	"Nakajima, T. et al. (2002) Nucleotide diversity and haplotype structure of the human Angiotensinogen gene in two populations. Am. J. Hum. Gen. 70, 108-123 "
+22	"Nickerson, D.A. et al. (1998) DNA sequence diversity in a 9.7-kb region of the human lipoprotein lipasae gene. Nature Gen. 19, 233-240"
+23	"Nickerson, D.A. et al. (2000) Sequence diversity and large-scale typing of SNPS in the human apolipoprotein E gene. Gen. Res. 10, 1532-1545"
+24	"Passarino, G. et al. (2001) The Werner Syndrome gene and global sequence variation. Genomics 71, 118-122"
+25	"Rana, B.K. et al. (1999) High polymorphism at the human melanocortin 1 receptor locus. Genetics 151, 1547-1557"
+26	"Rider, M.J.  et al. (1999) Sequence variation in the human angiotensin converting enzyme. Nature Gen. 22, 59-62"
+27	"Sale, S. et al. (2002) Conservation of the class I b-Tubulin gene in human populations and lack of mutations in lung cancers and paclitaxel-resistant ovarian cancers. Mol. Cancer Therapeutics 1, 215-225"
+28	"Shen, P. et al. (2000) Population genetic implications from sequence variation in four Y chromosome genes. Proc. Natl. Acad. Sci USA 97, 7354-7359"
+29	"Smirnova, I. et al. (2001) Excess of rare amino acid polymorphisms in the Toll-like Receptor 4 in humans. Genetics 158: 1657-1664"
+30	"Stephens, J.C. et al. (2001) Haplotype variation and linkage disequilibrium in 313 human genes. Science 293, 489-493."
+31	"Thorstenson, Y. et al. (2001) Global analysis of ATM polymorphism reveals significant functional constraint. Am. J. Hum. Gen. 69, 396-412"
+32	"Wall, J.D. and Przeworski, M. (2000) When did the human population size start increasing? Genetics 155, 1865-1874"
+33	"Wu, X. et al. (2001) A population genetics study of single nucleotide polymorphisms in the interleukin 4 receptor a (IL4RA) gene. Genes and Immunity 2: 128-134"
+34	"Yu, N. et al. (2001) Global patterns of human DNA sequence variation in a 10-kb region on chromosome 1. Mol. Biol. Evol. 18, 214-222."
+35	"Zhang, J. and Rosenberg, H.F. (2000) Sequence variation at two Eosinophil-Associated ribonuclease loci in humans. Genetics 156, 1919-1958"
+36	"Zhao, Z. et al. (2000) Worldwide DNA sequence variation in a 10-kilobase noncoding region on human chromosome 22. Proc. Natl. Acad. Sci. USA 97, 11354-11358"
+37	"Zietkiewicz, E. et al. (1998) Genetic structure of the ancestral population of modern humans. J. Mol. Evol. 47, 146-155 "
